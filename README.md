@@ -17,24 +17,24 @@ RGB matrix module, support single bus control, only a pin can control all the LE
 ## Blocks
 
 ### 1.creat Matrix
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/creat.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/creat.png)<br>
 
 ### 2.clear
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/clear.png)<br>
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/clearPix.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/clear.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/clearPix.png)<br>
 
 ### 3.display
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/bright.png)<br>
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/dir.png)<br>
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/fill.png)<br>
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/icon.png)<br>
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/number.png)<br>
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/pixel.png)<br>
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/str.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/bright.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/dir.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/fill.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/icon.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/number.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/pixel.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/str.png)<br>
 
 ### 4.color
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/color.png)<br>
-![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/RGB.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/color.png)<br>
+![image](https://github.com/DFRobot/pxt-Matrix8x8/blob/master/image/RGB.png)<br>
 
 
 ## License
