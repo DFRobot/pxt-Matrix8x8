@@ -1,4 +1,4 @@
-enum NeoMatrixColors {
+enum NeoPixelColors {
     //% block=red
     Red = 0xFF0000,
     //% block=orange
