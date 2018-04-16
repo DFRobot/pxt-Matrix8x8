@@ -242,8 +242,8 @@ namespace Matrix {
         len: number;
 
         //% blockId="showPixel" block="%strip| display pixel x %x| y %y| color %color"
-        //% x.min=0 x.max=8
-        //% y.min=0 y.max=8
+        //% x.min=0 x.max=7
+        //% y.min=0 y.max=7
         setPixel(x: number, y: number, color: number): void { 
             let offset = y*8+x
             this.setPixelColor(offset, color)
