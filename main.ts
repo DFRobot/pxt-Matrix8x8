@@ -540,13 +540,13 @@ namespace Matrix {
 
         //% blockId="showNumber" block="%strip| show number %num| color %color"
         //% parts="neopixel"
-        showNumber(num: number, color: NeoPixelColors): void { 
+        showNumber(num: number, color: number): void { 
             this.update();
             this.showString(num.toString(),color)
         }
 
         //% blockId="showString" block="%strip| display string %str| color %color"
-        showString(str: string, color: NeoPixelColors): void{
+        showString(str: string, color: number): void{
             let l = str.length;
             this.len = l+1;
             let i = 0;
@@ -574,7 +574,7 @@ namespace Matrix {
         }
 
         //% blockId="showCompass" block="%strip| display dir %dir| color %color"
-        showCompass(dir: _Dir, color: NeoPixelColors): void{
+        showCompass(dir: _Dir, color: number): void{
             let i=0;
             let j=0;
             let index=0;            
@@ -592,7 +592,7 @@ namespace Matrix {
         //% blockId="neopixel_set_strip_color" block="%strip|fill color %rgb" 
         //% weight=85 blockGap=8
         //% parts="neopixel"
-        showColor(rgb: NeoPixelColors) {
+        showColor(rgb: number) {
             this.update();
             this.setAllRGB(rgb);
             this.show();
